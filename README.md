@@ -1,9 +1,8 @@
 ## Aboute Me
 
-#### My Name is Hadi Heidariazar My Job is Frontend Developer
-#### Interested in learning More and Strengthening My Knowledge
-
+My Name is Hadi Heidariazar My Job is Frontend Developer
 <br>
+Interested in learning More and Strengthening My Knowledge
 
 ## My Skills
 
