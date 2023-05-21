@@ -1,10 +1,17 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;I+am+Hadi+Heidariazar🖐;My+Job+is+Frontend+Developer;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
+</p>
+
 ## Aboute Me
 
 My Name is Hadi Heidariazar My Job is Frontend Developer
 <br>
 Interested in learning More and Strengthening My Knowledge
+<br>
+I am learning...
+<br>
 
-## My Skills
+<h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> My Skills </h2>
 
 <p>
 
@@ -22,8 +29,6 @@ Interested in learning More and Strengthening My Knowledge
 
 
 </p>
-
-<br>
 
 ### Communicate Me
 
