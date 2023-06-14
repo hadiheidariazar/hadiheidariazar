@@ -1,0 +1,75 @@
+@import url('./reset.css');
+@import url('./loader.css');
+
+@font-face {
+    font-family: iranYekan;
+    src: url('./../font/IRANYekanRegular.ttf');
+}
+@font-face {
+    font-family: Lalezar;
+    src: url('./../font/Lalezar-Regular.ttf');
+}
+
+:root {
+    --bgColor-page: #272323;
+    --theme-color: #0D86FF;
+    --text-color: #F1F2F4;
+    --box-color: #302C40;
+    --box-shadow: 0px 40px 50px rgba(32, 29, 42, 0.75);
+}
+
+.bg-blue {
+    background-color: var(--theme-color);
+}
+
+.bg-box {
+    background-color: var(--box-color);
+}
+
+.text-blue {
+    color: var(--theme-color);
+}
+
+.text-light {
+    color: var(--text-color);
+}
+
+.fw-bold {
+    font-weight: bolder;
+}
+
+.btn-hover {
+    transition: .25s;
+}
+
+.btn-hover:hover {
+    filter: brightness(90%);
+}
+
+.w-max-content {
+    width: max-content;
+}
+
+.h-max-content {
+    height: max-content;
+}
+
+.border-radius {
+    border-radius: 1rem;
+}
+
+.shadow {
+    box-shadow: var(--box-shadow);
+}
+
+.fs-7 {
+    font-size: .8rem;
+}
+
+.f-lalezar {
+    font-family: Lalezar;
+}
+
+.f-iranyekan {
+    font-family: iranYekan;
+}
