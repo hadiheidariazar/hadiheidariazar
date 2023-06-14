@@ -5,6 +5,7 @@
     font-family: iranYekan;
     src: url('./../font/IRANYekanRegular.ttf');
 }
+
 @font-face {
     font-family: Lalezar;
     src: url('./../font/Lalezar-Regular.ttf');
@@ -30,7 +31,11 @@
     color: var(--theme-color);
 }
 
-.text-light {
+.font-black {
+    color: var(--bgColor-page);
+}
+
+.text-light-color {
     color: var(--text-color);
 }
 
@@ -39,11 +44,19 @@
 }
 
 .btn-hover {
-    transition: .25s;
+    transition: .3s;
 }
 
 .btn-hover:hover {
     filter: brightness(90%);
+}
+
+.text-hover:hover {
+    color: var(--theme-color);
+}
+
+.text-hover {
+    transition: .3s;
 }
 
 .w-max-content {
@@ -59,17 +72,13 @@
 }
 
 .shadow {
-    box-shadow: var(--box-shadow);
+    box-shadow: var(--box-shadow) !important;
 }
 
 .fs-7 {
-    font-size: .8rem;
+    font-size: .9rem;
 }
 
 .f-lalezar {
     font-family: Lalezar;
-}
-
-.f-iranyekan {
-    font-family: iranYekan;
 }
