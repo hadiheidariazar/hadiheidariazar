@@ -23,7 +23,7 @@ iconMenuElem.addEventListener('click', () => {
 
         setTimeout(() => {
             menuItemsElem.classList.remove('none')
-        }, 500)
+        }, 380)
 
     }
 })

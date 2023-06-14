@@ -23,6 +23,10 @@
     background-color: var(--theme-color);
 }
 
+.bg-page {
+    background-color: var(--bgColor-page);
+}
+
 .bg-box {
     background-color: var(--box-color);
 }
