@@ -1,21 +1,203 @@
 <!DOCTYPE html>
 <html dir="rtl" lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="سایت شخصی هادی حیدری آذر برنامه نویس و توسعه دهنده فرانت اند">
-    <meta name="keywords" content="هادی حیدری آذر, توسعه دهنده فرانت اند, فرانت اند دولوپر, برنامه نویس, hadiheidariazar, frontend developer, programmer">
+    <meta name="keywords"
+        content="هادی حیدری آذر, توسعه دهنده فرانت اند, فرانت اند دولوپر, برنامه نویس, hadiheidariazar, frontend developer, programmer">
     <link rel="stylesheet" href="./css/bootstrap.rtl.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <link rel="stylesheet" href="./css/contactMe.css">
     <link rel="icon" href="./image/hadiheidariazar.jpg">
     <title> ارتباط با من </title>
 </head>
-<body>
-    
+
+<body class="px-3 px-sm-0 d-lg-flex align-items-center">
+
+    <div class="loader d-flex justify-content-center align-items-center">
+        <div class="spinner-grow bg-blue" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+
+    <header class="fixed-top mx-1 mt-2">
+        <div class="menu bg-blue p-2 py-1">
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor"
+                class="bi bi-list icon-menu float-end" viewBox="0 0 16 16" style="cursor: pointer;">
+                <path fill-rule="evenodd"
+                    d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
+            </svg>
+
+            <ul class="menu-items none">
+                <li>
+                    <a class="page-link fs-7" href="./index.html"> درباره من </a>
+                </li>
+                <li>
+                    <a class="page-link fs-7" href="./mySkills.html"> مهارت های من </a>
+                </li>
+                <li>
+                    <a class="page-link fs-7" href="./contactMe.html"> ارتباط با من </a>
+                </li>
+                <li>
+                    <a class="page-link fs-7" href="sampleWorks.html"> نمونه کارها </a>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row my-5">
+
+            <!-- Section My Profile -->
+            <div class="col-12 p-1 col-lg-3 bg-box shadow border-radius justify-content-center d-flex">
+
+                <div class="my-profile text-center d-grid justify-content-center">
+
+                    <div class="section-my-profile text-center">
+                        <img src="./image/hadiheidariazar.jpg" alt="My Image" class="shadow">
+
+                        <h4 class="f-lalezar fs-5 mt-4"> هادی حیدری آذر </h4>
+                        <h4 class="fw-bold d-inline-block px-3 py-1 fs-7 bg-white font-black mt-1 rounded-pill">
+                            Frontend Developer </h4>
+                    </div>
+
+                    <div class="my-specifications text-lg-start d-flex justify-content-center mt-4">
+                        <div class="row d-flex d-lg-grid">
+                            <div class="col-12 col-md-6 col-lg-12 my-2">
+
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor"
+                                    class="bi bi-calendar-day mb-1" viewBox="0 0 16 16">
+                                    <path
+                                        d="M4.684 11.523v-2.3h2.261v-.61H4.684V6.801h2.464v-.61H4v5.332h.684zm3.296 0h.676V8.98c0-.554.227-1.007.953-1.007.125 0 .258.004.329.015v-.613a1.806 1.806 0 0 0-.254-.02c-.582 0-.891.32-1.012.567h-.02v-.504H7.98v4.105zm2.805-5.093c0 .238.192.425.43.425a.428.428 0 1 0 0-.855.426.426 0 0 0-.43.43zm.094 5.093h.672V7.418h-.672v4.105z" />
+                                    <path
+                                        d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z" />
+                                </svg>
+
+                                <span class="fs-7 date-birth" title="تاریخ تولد"> 9 آبان 1386 </span>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-12 my-2">
+
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor"
+                                    class="bi bi-geo-alt" viewBox="0 0 16 16">
+                                    <path
+                                        d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A31.493 31.493 0 0 1 8 14.58a31.481 31.481 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94zM8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10z" />
+                                    <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
+                                </svg>
+
+                                <span class="fs-7 location" title="آدرس"> ایران / تهران</span>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-12 my-2">
+
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor"
+                                    class="bi bi-envelope" viewBox="0 0 16 16">
+                                    <path
+                                        d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />
+                                </svg>
+
+                                <a href="mailto:hadiha010101@gmail.com" title="آدرس ایمیل"
+                                    class="text-decoration-none text-hover text-light-color" style="font-size: .75rem;">
+                                    hadiha010101@gmail.com</a>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-12 my-2">
+
+                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor"
+                                    class="bi bi-github mb-1" viewBox="0 0 16 16">
+                                    <path
+                                        d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z" />
+                                </svg>
+
+                                <a href="https://github.com/hadiheidariazar" title="آدرس گیت هاب"
+                                    class="fs-7 text-hover text-decoration-none text-light-color"> hadiheidariazar </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class=" download-page my-4 d-flex justify-content-center">
+
+                        <a href="./files/رزومه علیرضا کثیرزارع.pdf"
+                            class="bg-blue btn-hover fs-6 btn-download-page text-light-color f-lalezar border-radius text-light-color text-decoration-none mt-2">
+
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
+                                class="bi bi-download me-1 mb-2" viewBox="0 0 16 16">
+                                <path
+                                    d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z" />
+                                <path
+                                    d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z" />
+                            </svg>
+
+                            دانلود رزومه </a>
+
+                    </div>
+                </div>
+
+            </div>
+            <!-- Section My Profile -->
+
+            <!-- Section Contact with Me -->
+            <div class="col-12 p-1 col-lg-8 offset-lg-1 g-3 g-lg-0 bg-box shadow border-radius section-contact-me p-4">
+                <h2 class="f-lalezar section-title"> ارتباط با من </h2>
+                <div class="bg-blue underline-section-title border-radius"></div>
+
+                <div class="contact-me">
+                    <div class="row">
+                        <div class="col-12 col-sm-6">
+                            <div class="container-contact-me email w-max-content">
+                                <a href="mailto:hadiha010101@gmail.com"
+                                    class="text-decoration-none text-light-color title-link h-100 d-flex align-items-center">
+                                <img src="./image/email.png" alt="Icon Email" class="h-100 me-2">
+
+                                    hadiha010101@gmail.com </a>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-6 mt-4 mt-sm-0">
+                            <div class="container-contact-me github w-max-content">
+                                <a href="https://github.com/hadiheidariazar"
+                                    class="text-decoration-none text-light-color title-link d-flex align-items-center h-100" target="_blank">
+
+                                <img src="./image/github.png" alt="Icon Github" class="h-100 me-2">
+
+                                    hadiheidariazar </a>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-6 mt-4">
+                            <div class="container-contact-me instagram w-max-content">
+                                <a href="https://instagram.com/hadi.frontend?igshid=YmMyMTA2M2Y="
+                                    class="text-decoration-none text-light-color d-flex align-items-center title-link h-100" target="_blank">
+
+                                <img src="./image/instagram.png" alt="Icon Instagram" class="h-100 me-2">
+
+                                    hadi.frontend </a>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-6 mt-4">
+                            <div class="container-contact-me telegram w-max-content">
+                                <a href="https://t.me/hadiheidariazar"
+                                    class="text-decoration-none text-light-color d-flex align-items-center h-100 title-link" target="_blank">
+
+                                <img src="./image/telgram.png" alt="Icon Telegram" class="h-100 me-2">
+
+                                    hadiheidariazar </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Section Contact with Me -->
+
+        </div>
+
+        <footer>
+            <span class="fs-7 footer-text"> تمام حقوق برای <span class="text-blue fw-bold"> هادی حیدری آذر </span> محفوظ
+                است </span>
+        </footer>
+    </div>
+
 
     <script src="./js/bootstrap.bundle.min.js"></script>
     <script src="./js/features.js"></script>
 </body>
+
 </html>
