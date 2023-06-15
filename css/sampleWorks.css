@@ -1,1 +1,215 @@
 @import url('./custom.css');
+
+body {
+    background: var(--bgColor-page);
+    color: var(--text-color);
+    font-family: iranYekan;
+    overflow-x: hidden;
+    height: 41rem;
+}
+
+
+/* Start Header Page */
+
+header {
+    display: flex;
+    justify-content: end;
+}
+
+.menu {
+    border-radius: 10px 30px 30px 10px;
+    border: none;
+    direction: ltr;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .show {
+    width: 3rem;
+    animation: showMenu .4s 1 .1s ease-out forwards;
+}
+
+@keyframes showMenu {
+    100% {
+        width: 30rem;
+    }
+}
+
+header .not-show {
+    width: 30rem;
+    animation: notShowMenu .4s 1 .1s ease-out forwards;
+}
+
+@keyframes notShowMenu {
+    100% {
+        width: 3rem;
+    }
+}
+
+.menu-items li {
+    float: right;
+}
+
+.menu .none {
+    display: none;
+}
+
+.menu-items li a {
+    float: right;
+    margin: 0 10px;
+    color: #f0f0f0;
+    transition: .3s;
+}
+
+.menu-items li a:hover {
+    color: #fff;
+}
+
+/* Finish Header Page */
+
+
+
+/* Start Content Page */
+
+
+/* Start Section My Profile */
+
+.my-profile {
+    width: 100%;
+}
+
+.section-my-profile {
+    width: 10rem;
+}
+
+.section-my-profile img {
+    margin-top: -4.5rem;
+    border-radius: 2rem;
+    width: 10rem;
+}
+
+.date-birth,
+.location {
+    cursor: default;
+}
+
+.btn-download-page {
+    padding: .8rem 1.5rem;
+    width: 100%;
+    border: none;
+    box-shadow: 0 1rem 1rem rgba(13, 134, 255, 0.15), 0 0.125rem 0.25rem rgba(13, 134, 255, 0.15);
+}
+
+.btn-download-page:hover {
+    box-shadow: none;
+}
+
+/* Finish Section My Profile */
+
+
+/* Start Sample Works My */
+
+.underline-section-title {
+    width: 5rem;
+    height: 4px;
+}
+
+.container-sample-works-my{
+    height: 8rem;
+}
+
+/* Finish Sample Works My */
+
+
+/* Start Responsive with css */
+
+@media screen and (max-width: 991px) {
+
+    body {
+        height: max-content;
+    }
+
+    .section-my-profile {
+        width: 100%;
+    }
+
+    .btn-download-page {
+        width: 75%
+    }
+
+    .container {
+        margin-top: 8rem;
+    }
+
+    footer {
+        margin-bottom: 2rem;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    header .show {
+        width: 3rem;
+        animation: showMenu .4s 1 .1s ease-out forwards;
+    }
+
+    @keyframes showMenu {
+        100% {
+            width: 28rem;
+        }
+    }
+
+    header .not-show {
+        width: 28rem;
+        animation: notShowMenu .4s 1 .1s ease-out forwards;
+    }
+
+    @keyframes notShowMenu {
+        100% {
+            width: 3rem;
+        }
+    }
+
+    .menu-items li a {
+        font-size: .75rem;
+        margin: 0 5px;
+    }
+}
+
+@media screen and (max-width: 333px) {
+    header .show {
+        width: 3rem;
+        animation: showMenu .4s 1 .1s ease-out forwards;
+    }
+
+    @keyframes showMenu {
+        100% {
+            width: 22rem;
+        }
+    }
+
+    header .not-show {
+        width: 22rem;
+        animation: notShowMenu .4s 1 .1s ease-out forwards;
+    }
+
+    @keyframes notShowMenu {
+        100% {
+            width: 3rem;
+        }
+    }
+
+    .menu-items li a {
+        font-size: .6rem;
+        margin: 0 5px;
+        line-height: 1.2rem;
+    }
+
+    .footer-text {
+        font-size: .8rem;
+    }
+}
+
+/* Finish Responsive with css */
+
+/* Finish Content Page */
