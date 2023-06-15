@@ -26,7 +26,7 @@ header {
 }
 
 header .show {
-    width: 3rem;
+    width: 4.8rem;
     animation: showMenu .4s 1 .1s ease-out forwards;
 }
 
@@ -36,14 +36,14 @@ header .show {
     }
 }
 
-header .not-show {
+header .none-menu {
     width: 30rem;
     animation: notShowMenu .4s 1 .1s ease-out forwards;
 }
 
 @keyframes notShowMenu {
     100% {
-        width: 3rem;
+        width: 4.8rem;
     }
 }
 
@@ -150,7 +150,7 @@ header .not-show {
 
 @media screen and (max-width: 576px) {
     header .show {
-        width: 3rem;
+        width: 3.8rem;
         animation: showMenu .4s 1 .1s ease-out forwards;
     }
     
@@ -160,26 +160,26 @@ header .not-show {
         }
     }
     
-    header .not-show {
+    header .none-menu {
         width: 28rem;
         animation: notShowMenu .4s 1 .1s ease-out forwards;
     }
     
     @keyframes notShowMenu {
         100% {
-            width: 3rem;
+            width: 3.8rem;
         }
     }
 
     .menu-items li a {
-        font-size: .75rem;
+        font-size: .8rem;
         margin: 0 5px;
     }
 }
 
-@media screen and (max-width: 333px) {
+@media screen and (max-width: 375px) {
     header .show {
-        width: 3rem;
+        width: 3.8rem;
         animation: showMenu .4s 1 .1s ease-out forwards;
     }
     
@@ -189,14 +189,14 @@ header .not-show {
         }
     }
     
-    header .not-show {
+    header .none-menu {
         width: 22rem;
         animation: notShowMenu .4s 1 .1s ease-out forwards;
     }
     
     @keyframes notShowMenu {
         100% {
-            width: 3rem;
+            width: 3.8rem;
         }
     }
 

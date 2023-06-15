@@ -10,20 +10,20 @@ window.addEventListener('load', () => {
 })
 
 iconMenuElem.addEventListener('click', () => {
-    if (menuElem.className === 'menu bg-blue p-2 py-1 show') {
+    if (menuElem.className.includes('show')) {
 
         menuElem.classList.remove('show')
-        menuElem.classList.add('not-show')
+        menuElem.classList.add('none-menu')
         menuItemsElem.classList.add('none')
         
     } else {
 
-        menuElem.classList.remove('not-show')
+        menuElem.classList.remove('none-menu')
         menuElem.classList.add('show')
 
         setTimeout(() => {
             menuItemsElem.classList.remove('none')
-        }, 380)
+        }, 400)
 
     }
 })
