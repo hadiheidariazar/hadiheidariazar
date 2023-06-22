@@ -23,7 +23,7 @@ I am learning...
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-5a23c8.svg?style=for-the-badge&logo=bootstrap&logoColor=fff" />
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/sass-E10098.svg?style=for-the-badge&logo=sass&logoColor=white" />
-
+<img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
 
 ### Communicate Me
