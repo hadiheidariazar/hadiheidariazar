@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;I+am+Hadi+Heidariazar🖐;My+Job+is+Frontend+Developer;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;I+am+Hadi+Heidariazar🖐;I+am+a+Frontend+Developer;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
 </p>
 
-## Aboute Me
+## About Me
 
-My Name is Hadi Heidariazar My Job is Frontend Developer
+My Name is Hadi Heidariazar I am a Frontend Developer
 <br>
 Interested in learning More and Strengthening My Knowledge
 <br>
 I am learning...
 <br>
-#### My Personal site: <a href="http://hadiheidariazar.iapp.ir"> hadiheidariazar </a>
+#### My Personal Site: <a href="http://hadiheidariazar.iapp.ir"> hadiheidariazar </a>
 <br>
 
 <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> My Skills </h2>
