@@ -25,6 +25,7 @@ I am learning...
 <img alt="Sass" src="https://img.shields.io/badge/sass-E10098.svg?style=for-the-badge&logo=sass&logoColor=white" />
 <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="material ui" src="https://img.shields.io/badge/material%20ui-0072E5.svg?style=for-the-badge&logo=material%2020ui&logoColor=white" />
+<img alt="Redux" src="https://img.shields.io/badge/redux-7e10e7.svg?style=for-the-badge&logo=redux&logoColor=fff" />
 </p>
 
 ### Communicate Me
