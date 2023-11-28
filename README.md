@@ -3,12 +3,8 @@
 </p>
 
 ## About Me
-
-My Name is Hadi Heidariazar I am a Frontend Developer
 <br>
-Interested in learning More and Strengthening My Knowledge
-<br>
-I am learning...
+I am Hadi Heidariazar, a front end programmer. From the beginning of my learning, I challenged myself to improve, and I always finish what I start in the best way, and I pay attention to all the details, and I am very interested in learning more.
 <br>
 #### My Personal Site: <a href="http://hadiheidariazar.iapp.ir"> hadiheidariazar </a>
 <br>
