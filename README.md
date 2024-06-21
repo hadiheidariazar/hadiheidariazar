@@ -33,10 +33,10 @@ I am Hadi Heidariazar, a front end programmer. From the beginning of my learning
     <img alt="HTML5" src="https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://mailto:hadiha010101@gmail.com">
-    <img alt="HTML5" src="https://img.shields.io/badge/gmail-188038.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/gmail-188038.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/HadiFrontDev">
-    <img alt="HTML5" src="https://img.shields.io/badge/telegram-%231572B6.svg?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/hadifrontdev">
+    <img alt="Telegram" src="https://img.shields.io/badge/telegram-%231572B6.svg?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://instagram.com/hadifrontdev">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
