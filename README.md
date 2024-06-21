@@ -26,7 +26,7 @@ I am Hadi Heidariazar, a front end programmer. From the beginning of my learning
 <img alt="Redux" src="https://img.shields.io/badge/redux-7e10e7.svg?style=for-the-badge&logo=redux&logoColor=fff" />
 </p>
 
-### Communicate Me
+### Contact Me
 
 <p>
   <a href="https://github.com/hadiheidariazar/">
