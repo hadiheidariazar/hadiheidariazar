@@ -38,4 +38,7 @@ I am Hadi Heidariazar, a front end programmer. From the beginning of my learning
   <a href="https://t.me/HadiFrontDev">
     <img alt="HTML5" src="https://img.shields.io/badge/telegram-%231572B6.svg?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <a href="https://instagram.com/hadifrontdev">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
 </p>
