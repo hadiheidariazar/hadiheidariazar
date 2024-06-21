@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Welcome+To+My+Profile!;I%27m+Hadi+Heidariazar🖐;I%27m+a+Frontend+Developer💻;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
 </p>
 
-## About Me
+<h2> <img alt='About Me' width='30px' src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-customer-48.png?raw=true" /> &nbsp; About Me </h2>
 I am Hadi Heidariazar, a front end programmer. From the beginning of my learning, I challenged myself to improve, and I always finish what I start in the best way, and I pay attention to all the details, and I am very interested in learning more.
 <h3> My Personal Site: <a href="http://hadiheidariazar.iapp.ir"> hadiheidariazar </a> </h3>
 
-<h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> My Skills </h2>
+<h2> <img alt='My Skills' src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> &nbsp; My Skills </h2>
 
 <p>
 
@@ -22,7 +22,7 @@ I am Hadi Heidariazar, a front end programmer. From the beginning of my learning
 <img alt="Redux" src="https://img.shields.io/badge/redux-7e10e7.svg?style=for-the-badge&logo=redux&logoColor=fff" />
 </p>
 
-### Contact Me
+<h2> <img width='30px' src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-contact-48%20(1).png?raw=true" /> &nbsp; Contact Me </h2>
 
 <p>
   <a href="https://github.com/hadiheidariazar/">
