@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Welcome+To+My+Profile!;I%27m+Hadi+Heidariazar🖐;I%27m+a+Frontend+Developer💻;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+Welcome+To+My+Profile!;I%27m+Hadi+Heidariazar🖐;I%27m+a+Frontend+Developer💻;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000" alt="Example Usage - README Typing SVG">
 </p>
 
 <h2> <img alt='About Me' width='30px' src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-customer-48.png?raw=true" /> &nbsp; About Me </h2>
@@ -17,8 +17,10 @@ I am Hadi Heidariazar, a front end programmer. From the beginning of my learning
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/sass-E10098.svg?style=for-the-badge&logo=sass&logoColor=white" />
-<img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="material ui" src="https://camo.githubusercontent.com/018b897f653480b104865268a6439a2d9cbfa5829d6455ee6e700d524593c7b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d55492d2532333030383143422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7569266c6f676f436f6c6f723d7768697465" />
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
+<img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+<img alt="MUI" src="https://camo.githubusercontent.com/018b897f653480b104865268a6439a2d9cbfa5829d6455ee6e700d524593c7b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d55492d2532333030383143422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7569266c6f676f436f6c6f723d7768697465" />
 <img alt="Redux" src="https://img.shields.io/badge/redux-7e10e7.svg?style=for-the-badge&logo=redux&logoColor=fff" />
 </p>
 
