@@ -22,6 +22,7 @@ I am Hadi Heidariazar, a front end programmer. From the beginning of my learning
 <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img alt="MUI" src="https://img.shields.io/badge/mui-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=fff" />
 <img alt="Redux" src="https://img.shields.io/badge/redux-7e10e7.svg?style=for-the-badge&logo=redux&logoColor=fff" />
+<img alt="Typescript" src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <h2> <img width='30px' src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-contact-48%20(1).png?raw=true" /> &nbsp; Contact Me </h2>
