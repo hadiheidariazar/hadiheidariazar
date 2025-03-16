@@ -6,26 +6,26 @@
 I am Hadi Heidariazar, a front end programmer. From the beginning of my learning, I challenged myself to improve, and I always finish what I start in the best way, and I pay attention to all the details, and I am very interested in learning more.
 <h3> My Personal Site: <a href="http://hadiheidariazar.byethost8.com"> hadiheidariazar </a> </h3>
 
-<h2> <img alt='My Skills' src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> &nbsp; My Skills </h2>
+<h2> <img alt='Tech Stack' src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> &nbsp; Tech Stack </h2>
 
 <p>
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-5a23c8.svg?style=for-the-badge&logo=bootstrap&logoColor=fff" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="Npm" src="https://img.shields.io/badge/npm-e71721.svg?style=for-the-badge&logo=npm&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/sass-E10098.svg?style=for-the-badge&logo=sass&logoColor=white" />
+<img alt="MUI" src="https://img.shields.io/badge/mui-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=fff" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-0769ad.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
 <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img alt="MUI" src="https://img.shields.io/badge/mui-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=fff" />
 <img alt="Redux" src="https://img.shields.io/badge/redux-7e10e7.svg?style=for-the-badge&logo=redux&logoColor=fff" />
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Supabase" src="https://img.shields.io/badge/supabase-%2320232a.svg?style=for-the-badge&logo=supabase&logoColor=oklch(0.527%200.154%20150.069))" />
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="Npm" src="https://img.shields.io/badge/npm-e71721.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 <h2> <img width='30px' src= "https://github.com/MhsnBakhshi/MhsnBakhshi/blob/main/icons8-contact-48%20(1).png?raw=true" /> &nbsp; Contact With Me </h2>
