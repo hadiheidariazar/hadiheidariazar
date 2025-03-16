@@ -19,8 +19,6 @@ I am Hadi Heidariazar, a front end programmer. From the beginning of my learning
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-0769ad.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-<img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
-<img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/redux-7e10e7.svg?style=for-the-badge&logo=redux&logoColor=fff" />
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Supabase" src="https://img.shields.io/badge/supabase-%2320232a.svg?style=for-the-badge&logo=supabase&logoColor=oklch(0.527%200.154%20150.069))" />
